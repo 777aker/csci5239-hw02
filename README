@@ -1,0 +1,25 @@
+HW02: Procedural Textures
+Copied ex03
+
+Kelley Kelley
+CSCI4239/5239 Spring 2022
+
+Time Spent: 5 hrs
+
+Description:
+1st shader: moves it around and discards pixels based on texture values
+2nd shader: weird cube thing
+3rd shader: me realizing how to actually cut out the center of each face (texture coords obviously)
+4th shader: wanted to mess with noise very very simply
+http://www.science-and-fiction.org/rendering/noise.html
+idk, I don't have any particularly good ideas
+5th shader: snow ish? it snows. and the snow builds up
+
+Key bindings
+  m          Toggle shaders
+  o          Change objects
+  xXyYzZ     Change location or zoom
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
